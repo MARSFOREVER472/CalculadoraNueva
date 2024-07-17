@@ -4,4 +4,4 @@
 
 ### **_Cómo programar una calculadora con HTML, CSS y JavaScript._**
 
-- _Calculadora con Javascript, HTML y CSS._
+- **_Calculadora con Javascript, HTML y CSS._**
