@@ -12,7 +12,7 @@
 
 - **_Cómo programar una calculadora utilizando HTML & CSS._**
 
-- **_Ejemplos de programas creados mediante HTML y CSS._**
+- **_Ejemplos de programas creados mediante HTML & CSS._**
 
 - **_En este proyecto queremos traerte un ejemplo de una aplicación web muy práctica y fácil de realizar._**
 
