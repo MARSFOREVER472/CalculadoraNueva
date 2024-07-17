@@ -18,4 +18,4 @@
 
 - **_Se trata de una calculadora que fue desarrollada usando unas pocas líneas de HTML, algunas funciones y métodos de Javascript y unas pocas etiquetas de CSS._**
 
-- _Tras eso, hemos logrado desarrollar, desde cero, una calculadora básica pero completamente funcional, que podemos utilizar para realizar nuestras operaciones matemáticas._
+- **_Tras eso, hemos logrado desarrollar, desde cero, una calculadora básica pero completamente funcional, que podemos utilizar para realizar nuestras operaciones matemáticas._**
