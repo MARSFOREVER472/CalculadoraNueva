@@ -21,4 +21,4 @@
 - **_Tras eso, hemos logrado desarrollar, desde cero, una calculadora básica pero completamente funcional, que podemos utilizar para realizar nuestras operaciones matemáticas._**
 
 - **_¿Quieres aprender a programar una calculadora con botones usando Javascript?_**
-En Este vídeo es ideal para aquellas personas que desean aprender a crear sus propios programas y aplicaciones web, de manera que van a poder desarrollar desde cero una calculadora bonita, fácil de implementar y totalmente funcional. 
+En este vídeo es ideal para aquellas personas que desean aprender a crear sus propios programas y aplicaciones web, de manera que van a poder desarrollar desde cero una calculadora bonita, fácil de implementar y totalmente funcional. 
