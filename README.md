@@ -14,4 +14,4 @@
 
 - **_Ejemplos de programas creados con Javascript, HTML y CSS._**
 
-- En este proyecto queremos traerte un ejemplo de una aplicación web muy práctica y fácil de realizar.
+- _En este proyecto queremos traerte un ejemplo de una aplicación web muy práctica y fácil de realizar._
