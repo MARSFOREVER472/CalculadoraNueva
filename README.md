@@ -12,4 +12,4 @@
 
 - **_Cómo programar una calculadora con HTML, CSS y JavaScript._**
 
-- Ejemplos de programas creados con Javascript, HTML y CSS.
+- _Ejemplos de programas creados con Javascript, HTML y CSS._
