@@ -16,4 +16,4 @@
 
 - **_En este proyecto queremos traerte un ejemplo de una aplicación web muy práctica y fácil de realizar._**
 
-- Se trata de una calculadora que fue desarrollada usando unas pocas líneas de HTML, algunas funciones y métodos de Javascript y unas pocas etiquetas de CSS.
+- _Se trata de una calculadora que fue desarrollada usando unas pocas líneas de HTML, algunas funciones y métodos de Javascript y unas pocas etiquetas de CSS._
