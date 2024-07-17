@@ -13,3 +13,4 @@
 - **_Cómo programar una calculadora con HTML, CSS y JavaScript._**
 
 - **_Ejemplos de programas creados con Javascript, HTML y CSS._**
+En este vídeo queremos traerte un ejemplo de una aplicación web muy práctica y fácil de realizar.
