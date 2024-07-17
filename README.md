@@ -4,7 +4,7 @@
 
 ### **_Cómo programar una calculadora con HTML & CSS._**
 
-- **_Calculadora usando HTML y CSS._**
+- **_Calculadora utilizando HTML y CSS._**
   
 - **_Aprende a programar aplicaciones web creando una calculadora usando Javascript, HTML y CSS._**
 
