@@ -10,7 +10,7 @@
 
 - **_Programación y desarrollo web: Cómo crear una calculadora desde 0._**
 
-- **_Cómo programar una calculadora utilizando HTML, CSS y JavaScript._**
+- **_Cómo programar una calculadora utilizando HTML & CSS._**
 
 - **_Ejemplos de programas creados mediante Javascript, HTML y CSS._**
 
