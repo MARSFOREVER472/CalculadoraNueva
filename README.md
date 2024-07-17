@@ -20,4 +20,4 @@
 
 - **_Tras eso, hemos logrado desarrollar, desde cero, una calculadora básica pero completamente funcional, que podemos utilizar para realizar nuestras operaciones matemáticas._**
 
-- _¿Quieres aprender a programar una calculadora con botones usando Javascript?_
+- **_¿Quieres aprender a programar una calculadora con botones usando Javascript?_**
