@@ -22,4 +22,4 @@
 
 - **_¿Quieres aprender a programar una calculadora con botones utilizando Javascript?_**
 
-- **_En este vídeo es ideal para aquellas personas que desean aprender a crear sus propios programas y aplicaciones web, de manera que van a poder desarrollar desde 0 una calculadora bonita, fácil de implementar y totalmente funcional._**
+- **_En este proyecto es ideal para aquellas personas que desean aprender a crear sus propios programas y aplicaciones web, de manera que van a poder desarrollar desde 0 una calculadora bonita, fácil de implementar y totalmente funcional._**
